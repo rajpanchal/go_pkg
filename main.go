@@ -7,5 +7,5 @@ import (
 )
 
 func PrintHello() {
-	fmt.Println("Package to test custom module update")
+	fmt.Println("External package")
 }
